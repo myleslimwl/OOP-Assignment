@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Scala App",
+        "type": "scala",
+        "request": "launch",
+        "mainClass": "MainApp", 
+        "buildTarget": "root"   
+      }
+    ]
+  }
+  
